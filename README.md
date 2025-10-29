@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/JVC0/count.svg?"  />
+  [<img src="https://profile-counter.glitch.me/JVC0/count.svg?"  />](https://komarev.com/ghpvc/?username=JVC0)
 </div>
 
 ###
